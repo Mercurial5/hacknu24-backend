@@ -1,4 +1,4 @@
 sqlalchemy==2.0.29
 psycopg2-binary==2.9.9
-sanic==23.12.1g
+sanic==23.12.1
 sanic-cors
